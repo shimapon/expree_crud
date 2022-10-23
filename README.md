@@ -2,9 +2,7 @@
 
 シンプルな CRUD アプリ
 
-# Installation
-
-## yarn
+## Installation
 
 初期インストール
 
@@ -50,8 +48,6 @@ DB_DATABASE="MOVIE
 ```bash
 export $(cat .env | grep -v ^# | xargs)
 ```
-
-# Usage
 
 ## 実行
 
